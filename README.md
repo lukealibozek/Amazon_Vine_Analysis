@@ -126,14 +126,14 @@ CAST((SELECT COUNT(review_id) FROM vine_No where star_rating = 5) AS FLOAT) / CA
 ### Key Questions - Answered
 
 1. How many Vine reviews and non-Vine reviews were there?
-   - Vine Reviews: 60
-   - Non-Vine Reviews: 14,447
+   - **Vine Reviews**: 60
+   - **Non-Vine Reviews**: 14,447
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-   - 5 Star Vine reviews: 34
-   - 5 Star Non-Vine Reviews: 8,212
+   - **5 Star Vine Reviews**: 34
+   - **5 Star Non-Vine Reviews**: 8,212
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-   - 5 Star Vine Reviews: 56.67%
-   - 5 Star Non-Vine Reviews: 56.72%
+   - **5 Star Vine Reviews**: 56.67%
+   - **5 Star Non-Vine Reviews**: 56.72%
 
 # Summary
 
